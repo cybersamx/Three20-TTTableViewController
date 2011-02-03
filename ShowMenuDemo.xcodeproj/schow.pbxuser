@@ -654,7 +654,7 @@
 			sepNavIntBoundsRect = "{{0, 0}, {593, 741}}";
 			sepNavSelRange = "{1214, 0}";
 			sepNavVisRange = "{350, 1534}";
-			sepNavWindowFrame = "{{370, 51}, {632, 727}}";
+			sepNavWindowFrame = "{{501, 51}, {632, 727}}";
 		};
 	};
 	285EAD6512FA504900AA961F /* TabController.h */ = {
@@ -683,9 +683,9 @@
 	};
 	285EAD6B12FA50FD00AA961F /* ButtonCatalogViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {586, 1261}}";
-			sepNavSelRange = "{1819, 0}";
-			sepNavVisRange = "{95, 1357}";
+			sepNavIntBoundsRect = "{{0, 0}, {551, 1313}}";
+			sepNavSelRange = "{3005, 0}";
+			sepNavVisRange = "{1265, 572}";
 			sepNavWindowFrame = "{{571, 51}, {632, 727}}";
 		};
 	};

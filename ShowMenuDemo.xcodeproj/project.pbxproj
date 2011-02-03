@@ -37,6 +37,7 @@
 		285EAE3612FA66B900AA961F /* Global.m in Sources */ = {isa = PBXBuildFile; fileRef = 285EAE3512FA66B900AA961F /* Global.m */; };
 		285EAED612FA6E9900AA961F /* Icon_Zap.png in Resources */ = {isa = PBXBuildFile; fileRef = 285EAED512FA6E9900AA961F /* Icon_Zap.png */; };
 		285EAF0712FA717F00AA961F /* CellCatalogViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 285EAF0612FA717F00AA961F /* CellCatalogViewController.m */; };
+		285EAFC112FA809100AA961F /* README in Resources */ = {isa = PBXBuildFile; fileRef = 285EAFC012FA809100AA961F /* README */; };
 		288765FD0DF74451002DB57D /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 288765FC0DF74451002DB57D /* CoreGraphics.framework */; };
 /* End PBXBuildFile section */
 
@@ -424,6 +425,7 @@
 		285EAED512FA6E9900AA961F /* Icon_Zap.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Icon_Zap.png; sourceTree = "<group>"; };
 		285EAF0512FA717F00AA961F /* CellCatalogViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CellCatalogViewController.h; sourceTree = "<group>"; };
 		285EAF0612FA717F00AA961F /* CellCatalogViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CellCatalogViewController.m; sourceTree = "<group>"; };
+		285EAFC012FA809100AA961F /* README */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README; sourceTree = "<group>"; };
 		288765FC0DF74451002DB57D /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		32CA4F630368D1EE00C91783 /* ShowMenuDemo_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ShowMenuDemo_Prefix.pch; sourceTree = "<group>"; };
@@ -625,6 +627,7 @@
 				285EAC1912FA21D500AA961F /* Images */,
 				285EA7D112FA07DF00AA961F /* Three20.bundle */,
 				8D1107310486CEB800E47090 /* Info.plist */,
+				285EAFC012FA809100AA961F /* README */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -1042,6 +1045,7 @@
 				285EAE1F12FA645900AA961F /* Icon_Target.png in Resources */,
 				285EAE2012FA645900AA961F /* Icon_Plus.png in Resources */,
 				285EAED612FA6E9900AA961F /* Icon_Zap.png in Resources */,
+				285EAFC112FA809100AA961F /* README in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

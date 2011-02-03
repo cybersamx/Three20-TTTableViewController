@@ -16,7 +16,7 @@
 //  by Joseph Wain - http://glyphish.com/
 //
 //  Some portion of the code is based on Nirav Savjani's code (originally 
-//  posted on Three20 discussion thread on Google Groups.
+//  posted on the Three20 discussion thread on Google Groups)
 //  http://groups.google.com/group/three20/browse_thread/thread/67bb19879746cea5
 //
 

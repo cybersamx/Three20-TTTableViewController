@@ -1,0 +1,9 @@
+An example showing the use of TTTableViewController showMenu:forCell: method for creating an animated menu cell view using swipe gesture, touch on the cell, and touch on a button on a cell.
+
+Permission is given to use this source code file, free of charge, in any project, commercial or otherwise, entirely at your risk, with the condition that any redistribution (in part or whole) of source code must retain this copyright and permission notice. Attribution in compiled projects is appreciated but not required.
+
+Credits:
+Includes Glyphish icons (licensed under Creative Commons 3.0 US license) by Joseph Wain - http://glyphish.com/
+
+Swipe gesture code is based on Nirav Savjani's code (originally posted on the Three20 discussion thread on Google Groups)
+http://groups.google.com/group/three20/browse_thread/thread/67bb19879746cea5
