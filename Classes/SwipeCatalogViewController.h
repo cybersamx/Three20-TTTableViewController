@@ -18,8 +18,9 @@
 
 #import <Three20/Three20.h>
 
+#import "BaseCatalogViewController.h"
 
-@interface SwipeCatalogViewController : TTTableViewController {
+@interface SwipeCatalogViewController : BaseCatalogViewController {
 
 }
 

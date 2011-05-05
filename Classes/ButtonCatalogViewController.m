@@ -18,6 +18,7 @@
 
 #import "ContactViewCell.h"
 #import "Global.h"
+#import "MenuViewController.h"
 
 #import "ButtonCatalogViewController.h"
 
@@ -67,11 +68,12 @@
   // Load our custom menu view from a nib.
   NSArray *nib = [[NSBundle mainBundle] loadNibNamed:@"MenuView" 
                                                owner:self options:nil];
-  UIView* menuView = nil;
+  
+  UIView *menuView = nil;
   for (id object in nib) {
     if ([object isKindOfClass:[UIView class]]) {
-      // Retrieve the first UIView object.
-      menuView = (UIView *) object;
+      // Retrieve the first MenuView object.
+      menuView = object;
     }
   }
   
@@ -85,12 +87,6 @@
 
   // Now call showMenu with the menu to display on the associated cell.
   [self showMenu:menuView forCell:cell animated:YES]; 
-  
-  /*
-  ContactView *contactView = [sender superview];
-  
-  [self showMenu:menuView forCell:contactView animated:YES]; 
-   */
 }
-
+   
 @end

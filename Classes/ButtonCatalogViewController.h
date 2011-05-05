@@ -18,8 +18,10 @@
 
 #import <Three20/Three20.h>
 
+#import "BaseCatalogViewController.h"
 
-@interface ButtonCatalogViewController : TTTableViewController {
+
+@interface ButtonCatalogViewController : BaseCatalogViewController {
 
 }
 
